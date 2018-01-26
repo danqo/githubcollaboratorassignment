@@ -90,7 +90,8 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 
-* Daniel Wang, CSCULB
+* Daniel Wang, CSULB
+	* GitHub: @danqo
 	
 * Brian Pham, CSULB
 	* Github: @bpbrianpham
